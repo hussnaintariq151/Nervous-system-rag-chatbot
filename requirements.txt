@@ -1,0 +1,26 @@
+numpy
+pandas
+matplotlib
+requests
+pymupdf
+langchain
+python-dotenv
+langchain-openai
+langchain-community
+langchain-astradb
+#pip install --upgrade astrapy
+astrapy
+cassandra-driver
+tqdm
+cassio
+chromadb
+pypdf
+openai
+psycopg2-binary
+
+logger
+
+fastapi 
+uvicorn
+jinja2
+python-multipart
